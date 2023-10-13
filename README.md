@@ -18,6 +18,7 @@
 * Exploratory Data Analysis was done
 
 # [Project 3: Subscription-based Business Analysis with SQL](https://github.com/DataStance1/Foodie_fi_SQL_Case_Study_Solution)
+![foodie_fi_crop](https://github.com/DataStance1/Caleb_Ugorji-s_Portfolio/assets/114801619/e4fc5904-99ee-40fe-bede-a2021e8bed49)
 
 - The schema and query to create the tables can be obtained [here](https://8weeksqlchallenge.com/case-study-3/)
 - The tables were created in PgAdmin, Postgres SQL database management software
