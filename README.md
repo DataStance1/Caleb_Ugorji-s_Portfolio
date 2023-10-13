@@ -28,6 +28,7 @@
 - Click [here](https://public.tableau.com/app/profile/caleb.chijindu.ugorji/viz/Foodie_fisummarydashboard/Dashboard3?publish=yes) to view the dashboard
 
 [Project 4: Claim Distribution Analysis](https://github.com/DataStance1/Car_Insurance_Analysis)
+![Most popular car models by claim amount crop](https://github.com/DataStance1/Caleb_Ugorji-s_Portfolio/assets/114801619/252760fa-c675-4617-97bf-ac13e97966f8)
 #
 - This data set was provided by Data DNA for the Onyx Data Challenge for the month of August. You can find it [here](https://www.linkedin.com/posts/onyxdata_datadna-august-2023-challenge-entries-activity-7100741005221453824-XO6D?utm_source=share&utm_medium=member_desktop)
 - The data was loaded into the Pandas data frame and preliminary data exploration was done
@@ -35,6 +36,7 @@
 - Click [here](https://public.tableau.com/app/profile/caleb.chijindu.ugorji/viz/carinsurancerough/Dashboard1?publish=yes) to view the dashboard
 
 [Project 5: Data Cleaning and Business Operation Optimization Analysis with SQL](https://github.com/DataStance1/Pizza_runner_solutions)
+#
 - The schema and query to create the database tables can be obtained [here](https://8weeksqlchallenge.com/case-study-2/)
 - The tables were created in PgAdmin
 - Data quality issues  like wrong data types, comma-separated values, inconsistencies, unintuitive column names etc were identified and cleaned with SQL
@@ -42,6 +44,7 @@
 - Recommendations were given based on the insights obtained
   
 [Project 6: Data Exploration, Visualization and Slide Presentation with Python](https://github.com/DataStance1/Ford-GoBike-System-Data-Exploration)
+#
 - The dataset for this project can be obtained [here](https://www.fordgobike.com/system-data)
 - The project involved two parts: initial data exploration and slide preparation.
 - The initial data exploration was broken down into Data Wrangling, Feature Engineering, Univariate Data Exploration, Bivariate Data Exploration, Multivariate Data Exploration
