@@ -34,10 +34,17 @@
 - A summary dashboard was built with Tableau to showcase the key findings of the analysis
 - Click [here](https://public.tableau.com/app/profile/caleb.chijindu.ugorji/viz/carinsurancerough/Dashboard1?publish=yes) to view the dashboard
 
-[Project 5: Data Cleaning and Business Operation Optimization Analysis with SQL](
+[Project 5: Data Cleaning and Business Operation Optimization Analysis with SQL](https://github.com/DataStance1/Pizza_runner_solutions)
 - The schema and query to create the database tables can be obtained [here](https://8weeksqlchallenge.com/case-study-2/)
 - The tables were created in PgAdmin
 - Data quality issues  like wrong data types, comma-separated values, inconsistencies, unintuitive column names etc were identified and cleaned with SQL
 - The data was queried to answer important business questions and obtain insights
 - Recommendations were given based on the insights obtained
+  
+[Project 6: Data Exploration, Visualization and Slide Presentation with Python](https://github.com/DataStance1/Ford-GoBike-System-Data-Exploration)
+- The dataset for this project can be obtained [here](https://www.fordgobike.com/system-data)
+- The project involved two parts: initial data exploration and slide preparation.
+- The initial data exploration was broken down into Data Wrangling, Feature Engineering, Univariate Data Exploration, Bivariate Data Exploration, Multivariate Data Exploration
+- In the second part of the projection, key findings were summarized in a slide deck.
+
 
