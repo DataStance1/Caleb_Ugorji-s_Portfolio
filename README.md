@@ -8,3 +8,11 @@
 - The report
   ![image](https://github.com/DataStance1/Caleb_Ugorji-s_Portfolio/assets/114801619/8b645aed-d239-4cbe-809d-1f518c7163b5)
 
+[Project 2: Data wrangling and querying API with Python](https://github.com/DataStance1/WeRateDogs_Twitter)
+#
+* Data was analysed from WeRateDogs Twitter data using Python to find interesting insights.
+* Downloaded and loaded data into the Pandas data frame
+* Downloaded data programmatically using the Python request library
+* Queried twitter APi
+* Data wrangling was done
+* Exploratory Data Analysis was done
