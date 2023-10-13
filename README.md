@@ -20,7 +20,7 @@
 
 [Project 3: Subscription-based Business Analysis with SQL](https://github.com/DataStance1/Foodie_fi_SQL_Case_Study_Solution)
 #
-- The schema and query to create the tables can be obtained here
+- The schema and query to create the tables can be obtained [here](https://8weeksqlchallenge.com/case-study-3/)
 - The tables were created in PgAdmin, Postgres SQL database management software
 - A connection was created with my Jupyter notebook
 - The data was queried to answer key business questions
@@ -33,4 +33,11 @@
 - The data was loaded into the Pandas data frame and preliminary data exploration was done
 - A summary dashboard was built with Tableau to showcase the key findings of the analysis
 - Click [here](https://public.tableau.com/app/profile/caleb.chijindu.ugorji/viz/carinsurancerough/Dashboard1?publish=yes) to view the dashboard
+
+[Project 5: Data Cleaning and Business Operation Optimization Analysis with SQL](
+- The schema and query to create the database tables can be obtained [here](https://8weeksqlchallenge.com/case-study-2/)
+- The tables were created in PgAdmin
+- Data quality issues  like wrong data types, comma-separated values, inconsistencies, unintuitive column names etc were identified and cleaned with SQL
+- The data was queried to answer important business questions and obtain insights
+- Recommendations were given based on the insights obtained
 
