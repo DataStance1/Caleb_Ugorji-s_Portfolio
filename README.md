@@ -27,4 +27,10 @@
 - A summary dashboard of key findings was built in Tableau
 - Click [here](https://public.tableau.com/app/profile/caleb.chijindu.ugorji/viz/Foodie_fisummarydashboard/Dashboard3?publish=yes) to view the dashboard
 
-[Project 4: 
+[Project 4: Claim Distribution Analysis](https://github.com/DataStance1/Car_Insurance_Analysis)
+#
+- This data set was provided by Data DNA for the Onyx Data Challenge for the month of August. You can find it [here](https://www.linkedin.com/posts/onyxdata_datadna-august-2023-challenge-entries-activity-7100741005221453824-XO6D?utm_source=share&utm_medium=member_desktop)
+- The data was loaded into the Pandas data frame and preliminary data exploration was done
+- A summary dashboard was built with Tableau to showcase the key findings of the analysis
+- Click [here](https://public.tableau.com/app/profile/caleb.chijindu.ugorji/viz/carinsurancerough/Dashboard1?publish=yes) to view the dashboard
+
