@@ -8,16 +8,7 @@
 - Statistical analysis was done in SPSS version 25 
 - The report was built in Tableau
 
-# [Project 2: Data wrangling and querying API with Python](https://github.com/DataStance1/WeRateDogs_Twitter)
-
-* Data was analysed from WeRateDogs Twitter data using Python to find interesting insights.
-* Downloaded and loaded data into the Pandas data frame
-* Downloaded data programmatically using the Python request library
-* Queried Twitter API
-* Data wrangling was done
-* Exploratory Data Analysis was done
-
-# [Project 3: Subscription-based Business Analysis with SQL](https://github.com/DataStance1/Foodie_fi_SQL_Case_Study_Solution)
+  # [Project 2: Subscription-based Business Analysis with SQL](https://github.com/DataStance1/Foodie_fi_SQL_Case_Study_Solution)
 ![foodie_fi_crop](https://github.com/DataStance1/Caleb_Ugorji-s_Portfolio/assets/114801619/e4fc5904-99ee-40fe-bede-a2021e8bed49)
 
 - The schema and query to create the tables can be obtained [here](https://8weeksqlchallenge.com/case-study-3/)
@@ -27,13 +18,23 @@
 - A summary dashboard of key findings was built in Tableau
 - Click [here](https://public.tableau.com/app/profile/caleb.chijindu.ugorji/viz/Foodie_fisummarydashboard/Dashboard3?publish=yes) to view the dashboard
 
-# [Project 4: Claim Distribution Analysis](https://github.com/DataStance1/Car_Insurance_Analysis)
+  # [Project 3: Claim Distribution Analysis](https://github.com/DataStance1/Car_Insurance_Analysis)
 ![Most popular car models by claim amount crop](https://github.com/DataStance1/Caleb_Ugorji-s_Portfolio/assets/114801619/252760fa-c675-4617-97bf-ac13e97966f8)
 
 - This data set was provided by Data DNA for the Onyx Data Challenge for the month of August. You can find it [here](https://www.linkedin.com/posts/onyxdata_datadna-august-2023-challenge-entries-activity-7100741005221453824-XO6D?utm_source=share&utm_medium=member_desktop)
 - The data was loaded into the Pandas data frame and preliminary data exploration was done
 - A summary dashboard was built with Tableau to showcase the key findings of the analysis
 - Click [here](https://public.tableau.com/app/profile/caleb.chijindu.ugorji/viz/carinsurancerough/Dashboard1?publish=yes) to view the dashboard
+
+# [Project 4: Data wrangling and querying API with Python](https://github.com/DataStance1/WeRateDogs_Twitter)
+![we_rate_dog_crop](https://github.com/DataStance1/Caleb_Ugorji-s_Portfolio/assets/114801619/12d90d5e-67e6-4978-9297-043758fd20f9)
+
+* Data was analysed from WeRateDogs Twitter data using Python to find interesting insights.
+* Downloaded and loaded data into the Pandas data frame
+* Downloaded data programmatically using the Python request library
+* Queried Twitter API
+* Data wrangling was done
+* Exploratory Data Analysis was done
 
 # [Project 5: Data Cleaning and Business Operation Optimization Analysis with SQL](https://github.com/DataStance1/Pizza_runner_solutions)
 
