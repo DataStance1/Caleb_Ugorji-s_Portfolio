@@ -2,12 +2,12 @@
 
 [Project 1: Survey Analysis and Report](https://github.com/DataStance1/Sexual_Reproductive_Health_Report)
 #
+![sexual health survey crop](https://github.com/DataStance1/Caleb_Ugorji-s_Portfolio/assets/114801619/150022bd-1baa-4fad-98a9-8319372e950d)
+
 - The data was collected using a Google form
 - It was loaded into pandas and cleaned with python
 - Statistical analysis was done in SPSS version 25 
 - The report was built in Tableau
-- The report
-  ![image](https://github.com/DataStance1/Caleb_Ugorji-s_Portfolio/assets/114801619/8b645aed-d239-4cbe-809d-1f518c7163b5)
 
 [Project 2: Data wrangling and querying API with Python](https://github.com/DataStance1/WeRateDogs_Twitter)
 #
@@ -28,8 +28,9 @@
 - Click [here](https://public.tableau.com/app/profile/caleb.chijindu.ugorji/viz/Foodie_fisummarydashboard/Dashboard3?publish=yes) to view the dashboard
 
 [Project 4: Claim Distribution Analysis](https://github.com/DataStance1/Car_Insurance_Analysis)
-![Most popular car models by claim amount crop](https://github.com/DataStance1/Caleb_Ugorji-s_Portfolio/assets/114801619/252760fa-c675-4617-97bf-ac13e97966f8)
 #
+![Most popular car models by claim amount crop](https://github.com/DataStance1/Caleb_Ugorji-s_Portfolio/assets/114801619/252760fa-c675-4617-97bf-ac13e97966f8)
+
 - This data set was provided by Data DNA for the Onyx Data Challenge for the month of August. You can find it [here](https://www.linkedin.com/posts/onyxdata_datadna-august-2023-challenge-entries-activity-7100741005221453824-XO6D?utm_source=share&utm_medium=member_desktop)
 - The data was loaded into the Pandas data frame and preliminary data exploration was done
 - A summary dashboard was built with Tableau to showcase the key findings of the analysis
