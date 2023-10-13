@@ -1,4 +1,5 @@
 # Caleb_Ugorji-s_Portfolio
+
 [Project 1: Survey Analysis and Report](https://github.com/DataStance1/Sexual_Reproductive_Health_Report)
 #
 - The data was collected using a Google form
@@ -13,6 +14,17 @@
 * Data was analysed from WeRateDogs Twitter data using Python to find interesting insights.
 * Downloaded and loaded data into the Pandas data frame
 * Downloaded data programmatically using the Python request library
-* Queried twitter APi
+* Queried Twitter API
 * Data wrangling was done
 * Exploratory Data Analysis was done
+
+[Project 3: Subscription-based Business Analysis with SQL](https://github.com/DataStance1/Foodie_fi_SQL_Case_Study_Solution)
+#
+- The schema and query to create the tables can be obtained here
+- The tables were created in PgAdmin, Postgres SQL database management software
+- A connection was created with my Jupyter notebook
+- The data was queried to answer key business questions
+- A summary dashboard of key findings was built in Tableau
+- Click [here](https://public.tableau.com/app/profile/caleb.chijindu.ugorji/viz/Foodie_fisummarydashboard/Dashboard3?publish=yes) to view the dashboard
+
+[Project 4: 
